@@ -4,6 +4,8 @@ This API provides functionalities to manage an inventory system for electronic
 parts. It allows users to add, retrieve, update, and delete parts. Users can also 
 check quantities and search for parts based on specific characteristics.
 
+Please download the requirements in requirements.txt before running main.py and test.py
+
 1. Adding a Part
 Method: PUT
 
